@@ -55,20 +55,6 @@ The objective of this dashboard is to:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Main Dashboard
-<img width="1025" height="578" alt="Croma Sales Dashboard img" src="https://github.com/user-attachments/assets/a682627f-4547-4db7-b111-868fc133a3f2" />
-
-
-### Filter Analysis
-<img width="1028" height="577" alt="Month Filteration" src="https://github.com/user-attachments/assets/97ded17d-ebe6-4e05-b3f0-edb4fd20e32c" />
-<img width="1026" height="580" alt="Brand Filteration" src="https://github.com/user-attachments/assets/07834e0d-0230-4fa0-b7f3-be15f32581dc" />
-<img width="1027" height="576" alt="City Filteration" src="https://github.com/user-attachments/assets/8e545100-8f75-4985-ace5-585f949fd936" />
-
-
----
-
 ## 📈 Key Insights
 
 - Delhi generated the highest sales contribution.
@@ -109,3 +95,16 @@ Connect with me on LinkedIn.
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
+## 📷 Dashboard Preview
+
+### Main Dashboard
+<img width="1025" height="578" alt="Croma Sales Dashboard img" src="https://github.com/user-attachments/assets/a682627f-4547-4db7-b111-868fc133a3f2" />
+
+
+### Filter Analysis
+<img width="1028" height="577" alt="Month Filteration" src="https://github.com/user-attachments/assets/97ded17d-ebe6-4e05-b3f0-edb4fd20e32c" />
+<img width="1026" height="580" alt="Brand Filteration" src="https://github.com/user-attachments/assets/07834e0d-0230-4fa0-b7f3-be15f32581dc" />
+<img width="1027" height="576" alt="City Filteration" src="https://github.com/user-attachments/assets/8e545100-8f75-4985-ace5-585f949fd936" />
+
+
+
