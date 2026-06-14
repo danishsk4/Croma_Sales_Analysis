@@ -58,10 +58,10 @@ The objective of this dashboard is to:
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-(https://github.com/danishsk4/Croma_Sales_Analysis/blob/main/Croma%20Sales%20Dashboard%20img.png)
+(https://github.com/danishsk4/Croma_Sales_Analysis/blob/e036b0ac0defec652d368d18ae6bccbdc577b51e/Croma%20Sales%20Dashboard%20img.png)
 
 ### Filter Analysis
-(Add Month / Brand / City Filter Screenshots)
+(https://github.com/danishsk4/Croma_Sales_Analysis/blob/e036b0ac0defec652d368d18ae6bccbdc577b51e/Brand%20Filteration.png)
 
 ---
 
