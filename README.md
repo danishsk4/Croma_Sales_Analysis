@@ -58,10 +58,14 @@ The objective of this dashboard is to:
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-(https://github.com/danishsk4/Croma_Sales_Analysis/blob/e036b0ac0defec652d368d18ae6bccbdc577b51e/Croma%20Sales%20Dashboard%20img.png)
+<img width="1025" height="578" alt="Croma Sales Dashboard img" src="https://github.com/user-attachments/assets/a682627f-4547-4db7-b111-868fc133a3f2" />
+
 
 ### Filter Analysis
-(https://github.com/danishsk4/Croma_Sales_Analysis/blob/e036b0ac0defec652d368d18ae6bccbdc577b51e/Brand%20Filteration.png)
+<img width="1028" height="577" alt="Month Filteration" src="https://github.com/user-attachments/assets/97ded17d-ebe6-4e05-b3f0-edb4fd20e32c" />
+<img width="1026" height="580" alt="Brand Filteration" src="https://github.com/user-attachments/assets/07834e0d-0230-4fa0-b7f3-be15f32581dc" />
+<img width="1027" height="576" alt="City Filteration" src="https://github.com/user-attachments/assets/8e545100-8f75-4985-ace5-585f949fd936" />
+
 
 ---
 
