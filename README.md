@@ -84,17 +84,6 @@ The objective of this dashboard is to:
 ✔ Data-Driven Decision Making  
 
 ---
-
-## 👨‍💻 Author
-
-**Danish**  
-Aspiring Data Analyst | Power BI | SQL | Excel  
-
-Connect with me on LinkedIn.
-
----
-
-⭐ If you found this project useful, consider giving it a star.
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
@@ -106,5 +95,14 @@ Connect with me on LinkedIn.
 <img width="1026" height="580" alt="Brand Filteration" src="https://github.com/user-attachments/assets/07834e0d-0230-4fa0-b7f3-be15f32581dc" />
 <img width="1027" height="576" alt="City Filteration" src="https://github.com/user-attachments/assets/8e545100-8f75-4985-ace5-585f949fd936" />
 
+---
+## 👨‍💻 Author
 
+**Danish**  
+Aspiring Data Analyst | Power BI | SQL | Excel  
 
+Connect with me on LinkedIn.
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
